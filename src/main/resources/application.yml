@@ -4,3 +4,6 @@ spring:
     properties:
       hibernate:
         globally_quoted_identifiers: true
+  main:
+    allow-bean-definition-overriding: true
+
